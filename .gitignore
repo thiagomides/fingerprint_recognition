@@ -2,11 +2,7 @@
 dataset/processed/*.npy
 
 # Ignore all datasets
-dataset/
 *.npy
 .DS_Store
 __pycache__/
-*.BMP
-*.npy
-.DS_Store
 *.BMP

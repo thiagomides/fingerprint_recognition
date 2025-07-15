@@ -20,8 +20,8 @@ This project focuses on **Fingerprint Verification** using a **Siamese Neural Ne
 
 - `fingerprint_recognition.ipynb`: Main notebook containing model training, evaluation, and visualization.
 - `preprocess.ipynb`: Secondary notebook containing data preprocessing,.
-- `dataset/`: Folder structure expected to contain the raw SOCOFing dataset and processed `.npy` files.
-- `model0.png`: Diagram of the trained model architecture (generated with `keras.utils.plot_model`).
+- `dataset/` (removed): Folder structure expected to contain the raw SOCOFing dataset and processed `.npy` files.
+- `model.png`: Diagram of the trained model architecture (generated with `keras.utils.plot_model`).
 - `README.md`: Project description and instructions.
 
 ---
